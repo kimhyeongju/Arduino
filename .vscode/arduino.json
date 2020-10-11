@@ -1,0 +1,7 @@
+{
+    "board": "arduino:avr:pro",
+    "sketch": "bt_controller/app.ino",
+    "port": "COM5",
+    "programmer": "AVRISP mkII",
+    "configuration": "cpu=16MHzatmega328"
+}
