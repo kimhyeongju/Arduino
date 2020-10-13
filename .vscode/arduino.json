@@ -1,6 +1,6 @@
 {
     "board": "arduino:avr:uno",
-    "sketch": "dust_ex01/app.ino",
+    "sketch": "esp_ex04/app.ino",
     "port": "COM3",
     "programmer": "AVRISP mkII"
 }
