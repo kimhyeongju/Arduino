@@ -1,7 +1,6 @@
 {
-    "board": "arduino:avr:pro",
-    "sketch": "bt_controller/app.ino",
-    "port": "COM5",
-    "programmer": "AVRISP mkII",
-    "configuration": "cpu=16MHzatmega328"
+    "board": "arduino:avr:uno",
+    "sketch": "dust_ex01/app.ino",
+    "port": "COM3",
+    "programmer": "AVRISP mkII"
 }
